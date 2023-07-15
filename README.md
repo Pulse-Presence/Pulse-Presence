@@ -16,5 +16,5 @@ Now it's up to you !
 ## 📚 | Documentation
 
 
- ### ✏️ | Authors
+ ### ✏️ | Author
 - [Zqx](https://github.com/ZqxDev)
