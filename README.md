@@ -1,5 +1,5 @@
 <h1>
-  Pulse Presence V0.1 (Beta)
+  Pulse Presence V1
 </h1>
 
 **⚠️ | Note :**
