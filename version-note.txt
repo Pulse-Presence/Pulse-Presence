@@ -1,6 +1,11 @@
+V 1:
+🇬🇧 | The first version of Pulse Presence, released on 15/07/2023, is now available for those with a Windows-based computer.
+Pulse Presence's first feature is a customizable description, image and button.
+
+🇫🇷 | La première version de Pulse Presence publié le 15/07/2023 est donc disponible pour les personnes possédant un ordinateur sous l'os Windows. 
+Ayant pour première fonctionnalité de mettre une description, une image, un bouton personnalisable.
+
 V 0.1 (Beta) :
 🇬🇧 | The first version of Pulse Presence, released on 05/07/2023, is now available for those with a Windows-based computer.
 Pulse Presence's first feature is a customizable description, image and button.
 
-🇫🇷 | La première version de Pulse Presence publié le 05/07/2023 est donc disponible pour les personnes possédant un ordinateur sous l'os Windows. 
-Ayant pour première fonctionnalité de mettre une description, une image, un bouton personnalisable.
